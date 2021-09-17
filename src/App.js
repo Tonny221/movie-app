@@ -6,7 +6,6 @@ import { GlobalStyles } from './GlobalStyles';
 function App(){
   return(
     <div>
-      Hello World
       <Header />
       <GlobalStyles />
     </div>
